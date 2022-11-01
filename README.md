@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 ## 🌙 ABOUT ME  🌙
 
 ### 캡스톤 Project
-### Backend, Technical Writer   
+### Backend, Technical Writer  
+
+### 관심있는 분야
+### Frontend, Web Designer
              
              
 
