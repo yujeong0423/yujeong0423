@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20YujungHwang%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=%20YujungHwang%20%20&height=200&fontSize=100)
 
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
