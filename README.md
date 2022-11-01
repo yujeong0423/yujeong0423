@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JisuPark%20%20&height=200&fontSize=100)
+-->
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JisuPark%20%20&height=200&fontSize=100)
 
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
