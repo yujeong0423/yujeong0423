@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=%20YujungHwang%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=%20YujungHwang%20%20&height=200&fontSize=100)   
+    
+       
+          
 
 ### 💻자신있는 기술 스택💻
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
