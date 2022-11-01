@@ -1,4 +1,4 @@
-## Hwang Yujung
+## [황유정의 포트폴리오](https://yujeong0423.github.io/)
 
 <!--
 **yujeong0423/yujeong0423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,17 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=%20YujungHwang%20%20&height=200&fontSize=100)   
-## [황유정의 포트폴리오](https://yujeong0423.github.io/)
  
 
-### 🌙 ABOUT ME  🌙
+## 🌙 ABOUT ME  🌙
 
 #### 캡스톤 Project
 #### Backend, Technical Writer   
              
              
 
-### 💻SKILLS💻
+## 💻SKILLS💻
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
