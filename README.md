@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 #### 캡스톤 Project
 #### Backend, Technical Writer   
-          
-          
+             
+             
 
 ### 💻SKILLS💻
 
