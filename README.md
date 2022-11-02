@@ -1,4 +1,6 @@
-## [황유정의 포트폴리오](https://yujeong0423.github.io/)
+## [황유정의 포트폴리오](https://yujeong0423.github.io/)   
+
+😄 긍정적이고 열심히 공부하며 프론트엔드 개발자가 되기 위해 노력하고 있는 황유정입니다!!
 <!--
 **yujeong0423/yujeong0423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
