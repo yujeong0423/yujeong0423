@@ -1,6 +1,7 @@
 ## [황유정의 포트폴리오](https://yujeong0423.github.io/)   
 
 ### 😄 프론트엔드 개발자가 되기 위해 열심히 공부하며 실력을 쌓고 있는 황유정입니다!!
+### 💬 메일 주소 : hyjhms5879@gmail.com
 <!--
 **yujeong0423/yujeong0423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
